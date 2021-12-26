@@ -4,7 +4,7 @@ Hi there 👋
 - 🌱 I’m currently learning something
 - 👯 I’m looking to collaborate on something
 - 💬 Ask me about something
-- - ⚡ Fun fact my name is "arun"
+- ⚡ Fun fact my name is "arun"
 - 📫 How to reach me https://www.google.com/maps/place/NIIT+University/@27.9578721,76.3984532,15z/data=!4m5!3m4!1s0x396db6d381bd8a09:0x5cd01de55b1d2c65!8m2!3d27.9612991!4d76.401495
 
 
